@@ -1,2 +1,2 @@
 # Ctrl-CoT
-This is the official code of CtrlCoT.
+Our code is coming soon.
